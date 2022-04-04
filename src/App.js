@@ -1,6 +1,8 @@
 // import ManageBrandFormalua from './AdminDashBoard/ManageBrandFormalNames';
 
+// import PriceGrid from './AdminDashBoard/PriceGrid';
 import PriceList from './AdminDashBoard/PriceList';
+
 import './App.css';
 
 function App() {
@@ -8,6 +10,7 @@ function App() {
  <>
  {/* <ManageBrandFormalua /> */}
  <PriceList />
+ {/* <PriceGrid /> */}
  </>
   );
 }
