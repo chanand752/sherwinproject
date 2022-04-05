@@ -3,21 +3,22 @@
     display: flex;
     flex-direction: column;
     margin-left: 250px;
-    align-items: center;
+  
 }
 
 
 
-  .button1:hover {
+  /* .button1:hover {
     background-color: #0275d8;
-    /* color: white; */
-  }
+    
+  } */
 
   .input {
     display: flex;
     flex-direction: row;
-    /* justify-content: space-between; */
+   
   }
+
   .input-width {
       width: 15%; 
   }

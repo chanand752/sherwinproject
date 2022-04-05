@@ -34,9 +34,6 @@ function PriceList() {
                     <FormControl aria-label="Small" placeholder='List Price' aria-describedby="inputGroup-sizing-sm" className='form-width-1' />
                     </InputGroup>
                     <InputGroup size="sm" className="input-width">
-                    <FormControl aria-label="Small" placeholder='List Price' aria-describedby="inputGroup-sizing-sm" className='form-width-1' />
-                    </InputGroup>
-                    <InputGroup size="sm" className="input-width">
                     <FormControl aria-label="Small" placeholder='Jobber Price' aria-describedby="inputGroup-sizing-sm" className='form-width-1'/>
                     </InputGroup>
                     <InputGroup size="sm" className="input-width">
